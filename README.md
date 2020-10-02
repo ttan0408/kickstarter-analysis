@@ -1,3 +1,3 @@
 # kickstarter-analysis
 Performance analysis on kickstarter data to uncover the trends
-![Picture1](C:/Image/Picture1.png)
+https://github.com/ttan0408/kickstarter-analysis/blob/main/Picture1.png
