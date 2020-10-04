@@ -12,5 +12,5 @@
        There are no canceled campains for Plays , which indicates people interesting to go to the event more than other campaigns. So the outcomes for Plays campaign either              success or failure. 
        These analysis and observation can be seen as plot here : https://github.com/ttan0408/kickstarter-analysis/blob/main/Outcome_Based_On_Goal.png
        
- We can create the plots that show the most sucessful campaigns based on subcategory so that in the future we will focus most of resources on these, for example play campaigns
+       We can create the plots that show the most sucessful campaigns based on subcategory so that in the future we will focus most of resources on these, for example play                campaigns
 
