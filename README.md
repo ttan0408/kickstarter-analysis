@@ -9,7 +9,7 @@
   #### Fundraising Outcome Based On Goals :
        Campaigns have goal less than or equal $10,000 have successful rate higher then 50%
        Campaigns will be most likely fail when goals are set higher than $20,000 
-       Canceled campaign percentage start to kick up at gaols that are higher then $5000
+       There are no canceled campains for Plays , which indicates people interesting to go to the event more than other campaigns. So the outcomes for Plays campaign either              success or failure. 
        These analysis and observation can be seen as plot here : https://github.com/ttan0408/kickstarter-analysis/blob/main/Outcome_Based_On_Goal.png
        
  We can create the plots that show the most sucessful campaigns based on subcategory so that in the future we will focus most of resources on these, for example play campaigns
