@@ -5,6 +5,6 @@
        Campaigns have goal less than or equal $10,000 have successful rate higher then 50%
        Campaigns will be most likely fail when goals are set higher than $20,000 
        Canceled campaign percentage start to kick up at gaols that are higher then $5000
-   These analysis and observation can be seen as plot here : 
+   These analysis and observation can be seen as plot here : https://github.com/ttan0408/kickstarter-analysis/blob/main/Outcome_Based_On_Goal.png
 
 
